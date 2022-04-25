@@ -1,23 +1,14 @@
 ---
-title: Stuff I did
+title: Personal Projects
 ---
-<div style="background-image:url('/img/works/bandersnatch.jpg'); background-size: cover; background-position: center center; height: 100px; ">
+# Bibisnatch (2019)
+## What Happens when the Israeli Election system gets "Black Mirror"ed
 
-# Bibisnatch 
-</div>
-#
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fyair.valer%2Fvideos%2F10156793611054303%2F&show_text=false&width=560&t=0" width="auto" height="314" style="border:none;overflow:hidden,height: 100%; width: 100%;" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
-מה קורה כאשר מראה שחורה נכנסת לנו למציאות. סרטון לקראת בחירות בהשראת סרט “באנדרסנאטצ’” של מראה שחורה.
+<iframe src="https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/yair.valer/videos/10156793611054303" width="500rem" height="270rem" style="border:none;overflow:hidden;" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
-בימוי וכתיבה: יאיר ולר
-קונספט: יאיר ולר, שקד ליפשיץ
-שחקן: אורי סממה
-צילום: שקד ליפשיץ
-עריכה סאונד ואפטר: שקד ליפשיץ
+Directed & Written By: Yair Valer <br/>Concept: Shaked Lipszyc & Yair Valer <br/>Based On: "Black Mirror" TV Show <br/>Actor: Ori Smama  <br/>Cinemtography & Editing & VFX: Shaked Lipszyc
+<div class="bg-gradient w-screen text-center text-sm">
+
+## More to be added soon!
 
 
-
-
-
-
-{{< youtube w7Ft2ymGmfc >}}
