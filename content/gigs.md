@@ -1,5 +1,5 @@
 ---
-title: Latest GGGGGigs 
+title: Latest Gigs 
 ---
  Latest projects I worked at so far 
 ### 2022
