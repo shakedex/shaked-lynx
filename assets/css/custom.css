@@ -3,28 +3,32 @@
   padding-top: 100px;
 }
 .w-36 {
+  max-width: 1155px;
   width: auto;
 }
 .h-36 {
-  height: 60%;
+  max-height: 992px;
+  height: 40rem;
 }
 .link-portfolio {
-  background: rgb(37, 151, 46);
-  background: linear-gradient(
-    90deg,
-    rgb(54, 180, 106) 0%,
-    rgb(16, 204, 218) 50%,
-    rgba(252, 176, 69, 1) 100%
-  );
+  background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
+}
+.link-personalw {
+  background: #00DBDE;
+  background: linear-gradient(90deg, #00DBDE 0%, #FC00FF 100%);
 }
 .link-clients {
-  background: rgb(151, 37, 56);
-  background: linear-gradient(
-    90deg,
-    rgb(74, 215, 250) 0%,
-    rgb(236, 124, 203) 50%,
-    rgb(252, 69, 191) 100%
-  );
+  background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+}
+.link-about {
+  background: #485563;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #29323c, #485563);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #29323c, #485563); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 .mb-2 { 
   position:absolute;
@@ -44,11 +48,19 @@ h2 {
   text-shadow: 0 14px 8px rgba(0,0,0,0.12), 0 2px 4px rgba(0,0,0,0.75);
 }
 .bg-gradient {
-  background-image: linear-gradient(to right, rgb(56, 189, 248), rgb(59, 130, 246));
+  background-image: linear-gradient(120deg, #89f7fe 0%, #66a6ff 100%);
   color: white;
+  text-shadow: 0 14px 8px rgba(0,0,0,0.12), 0 1px 4px rgba(0,0,0,0.75);
 }
 .bg-gradient2 {
   background-image: linear-gradient(to right, rgb(55, 65, 81), rgb(17, 24, 39), rgb(0, 0, 0));
+  color: white;
+  margin-bottom: 1rem;
+  padding: 5px;
+}
+.bg-gradient3 {
+  background-color: #00DBDE;
+  background-image: linear-gradient(90deg, #00DBDE 0%, #FC00FF 100%);  
   color: white;
   margin-bottom: 1rem;
   padding: 5px;
