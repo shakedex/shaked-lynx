@@ -5,13 +5,16 @@ title: Latest Gigs
 ### 2022
 | Job| Prod. Name | Prod. Company |
 | ------ | ------ | ------ |
+|2nd Assistant Camera - Promo| Dan Acadia Hotel & Master Chef | Keshet
+|2nd Assistant Camera - TV Series | Dismissed / Hamefakedet 2| Black Sheep , HOT
+|2nd Assistant Camera - Commercial|Delek Motors - FORD & BMW |OG GROUP
 |2nd Assistant Camera - Commercial|Lily|Wedo Productions
 |2nd Robot Assistant - Commercial|Altshuler Shaham|OG Productions
 |2nd Assistant Camera - Commercial|Osem|Kaski Productions
 |2nd Assistant Camera - Commercial|"Project 1000"|Udini Films
-|2nd Assistant Camera - Promo / Web|Zarachovich - Shuni | Tedi Productions
+|2nd Assistant Camera - Promo / Web|Zarachovich - Shuni Amphitheater | Tedi Productions
 |2nd Assistant Camera - Music Video|Ravid Plotnik "Golem"|Studio Kestenboum
-|2nd Assistant Camera - Commercial|"Bait Bakfar"|OG Id
+|2nd Assistant Camera - Commercial|"Bait Bakfar"|OG ID
 |2nd Assistant Camera - Commercial|Azriely Group "Passover Promo"| Kaski Productions
 |2nd Assistant Camera - Film (Extra shoots) | "Golda" |Green Productions
 |2nd Assistant Camera - Commercial|Tara|Wewe Productions
