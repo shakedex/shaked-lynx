@@ -105,68 +105,82 @@ module.exports = {
         light: {
           css: [
             {
-              color: theme("colors.neutral.400"),
+              color: theme("colors.neutral.700"),
               a: {
-                color: theme("colors.primary.400"),
-                textDecorationColor: theme("colors.neutral.500"),
+                color: theme("colors.primary.700"),
+                textDecoration: "underline",
+                textDecorationColor: theme("colors.primary.300"),
+                fontWeight: "500",
+                "&:hover": {
+                  backgroundColor: theme("colors.primary.600"),
+                  borderRadius: "0.09rem",
+                  color: theme("colors.white"),
+                  textDecoration: "none",
+                },
               },
               strong: {
-                color: theme("colors.white"),
+                color: theme("colors.neutral.900"),
               },
               "ol > li::before": {
-                color: theme("colors.neutral.400"),
+                color: theme("colors.neutral.800"),
               },
               "ul > li::before": {
-                backgroundColor: theme("colors.neutral.600"),
+                backgroundColor: theme("colors.neutral.500"),
               },
               hr: {
-                borderColor: theme("colors.neutral.500"),
+                borderColor: theme("colors.neutral.200"),
               },
               blockquote: {
-                color: theme("colors.neutral.200"),
-                borderLeftColor: theme("colors.primary.900"),
+                color: theme("colors.neutral.800"),
+                borderLeftColor: theme("colors.primary.200"),
               },
               h1: {
-                color: theme("colors.white"),
+                color: theme("colors.neutral.800"),
+                position: "relative",
               },
               h2: {
-                color: theme("colors.white"),
+                color: theme("colors.neutral.800"),
+                position: "relative",
               },
               h3: {
-                color: theme("colors.white"),
+                color: theme("colors.neutral.800"),
+                position: "relative",
               },
               h4: {
-                color: theme("colors.white"),
-              },
-              "figure figcaption": {
-                color: theme("colors.neutral.400"),
+                color: theme("colors.neutral.800"),
+                position: "relative",
               },
               code: {
-                color: theme("colors.primary.500"),
-              },
-              "a code": {
-                color: theme("colors.white"),
-              },
-              pre: {
-                color: theme("colors.neutral.200"),
-                backgroundColor: theme("colors.neutral.700"),
+                color: theme("colors.primary.800"),
               },
               "pre code": {
-                color: theme("colors.neutral.200"),
+                color: theme("colors.neutral.700"),
+              },
+              pre: {
+                color: theme("colors.neutral.700"),
+                backgroundColor: theme("colors.neutral.50"),
+              },
+              "pre code": {
+                color: theme("colors.neutral.700"),
               },
               thead: {
-                color: theme("colors.white"),
+                color: theme("colors.neutral.800"),
                 borderBottomColor: theme("colors.neutral.500"),
               },
               "tbody tr": {
-                borderBottomColor: theme("colors.neutral.700"),
+                borderBottomColor: theme("colors.neutral.300"),
               },
               kbd: {
-                backgroundColor: theme("colors.neutral.700"),
-                color: theme("colors.neutral.300"),
+                backgroundColor: theme("colors.neutral.200"),
+                padding: "0.1rem 0.4rem",
+                borderRadius: "0.25rem",
+                fontSize: "0.9rem",
+                fontWeight: "600",
               },
               mark: {
-                backgroundColor: theme("colors.primary.400"),
+                backgroundColor: theme("colors.primary.200"),
+                padding: "0.1rem 0.2rem",
+                borderRadius: "0.12rem",
               },
             },
           ],

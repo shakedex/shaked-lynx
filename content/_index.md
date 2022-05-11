@@ -3,7 +3,7 @@ description: Shaked Lipszyc - Assistant Camera
 ---
 
 
-## 2nd Assistant Camera, Digital Imaging Technichian, Bolt Operator
+## Assistant Camera, Digital Imaging Technichian, Bolt Operator
 <div class="bg-gradient2  min-w-full py-2  text-lg rounded">Professional Assistant Camera and Digital Imaging Technichian based in <b>Tel Aviv, Israel.</b> Shaked also works as a cinematographer and vfx editor on small and personal projects.</div>
 
 
