@@ -7,15 +7,16 @@ title: Latest Gigs
 | ------ | ------ | ------ |
 |2nd Assistant Camera - Promo| Dan Acadia Hotel & Master Chef | Keshet
 |2nd Assistant Camera - TV Series | Dismissed / Hamefakedet 2| Black Sheep , HOT
-|2nd Assistant Camera - Commercial|Delek Motors - FORD & BMW |OG GROUP
-|2nd Assistant Camera - Commercial|Lily|Wedo Productions
-|2nd Robot Assistant - Commercial|Altshuler Shaham|OG Productions
-|2nd Assistant Camera - Commercial|Osem|Kaski Productions
-|2nd Assistant Camera - Commercial|"Project 1000"|Udini Films
-|2nd Assistant Camera - Promo / Web|Zarachovich - Shuni Amphitheater | Tedi Productions
+|2nd Assistant Camera - Commercial|Delek Motors - FORD |OG GROUP
+|2nd Assistant Camera - Commercial|["Delek Motors - BMW"](https://www.youtube.com/watch?v=vBkXXZY0HUE) |OG GROUP
+|2nd Assistant Camera - Commercial|Lily - "Feels Lily in nature" </br> [1](https://www.youtube.com/watch?v=Qft175_X-Hc), [2](https://www.youtube.com/watch?v=br0vvf17ajU)|Wedo Productions
+|2nd Bolt Assistant - Commercial|Altshuler Shaham - "Take your dreams seriously" </br> [1](https://www.youtube.com/watch?v=JoLv5ZHDTTs), [2](https://www.youtube.com/watch?v=5aoL826BH5g), [3](https://www.youtube.com/watch?v=XnnQXpKOvIQ)|OG Productions
+|2nd Assistant Camera - Commercial|Osem - Independence Day </br>[1](https://www.youtube.com/watch?v=YTDVb5zY8WM) , [2](https://www.youtube.com/watch?v=XxG-oHptwx8) , [3](https://www.youtube.com/watch?v=GUbreiLr4FY)|Kaski Productions
+|2nd Assistant Camera - Commercial|["Project 1000"](https://www.youtube.com/watch?v=wznVzg62Mqs)|Udini Films
+|2nd Assistant Camera - Promo / Web|[Zarachovich Standup Promo - Shuni Amphitheater](https://www.youtube.com/watch?v=MeJFdYUmZ5c) | Tedi Productions
 |2nd Assistant Camera - Music Video|Ravid Plotnik "Golem"|Studio Kestenboum
 |2nd Assistant Camera - Commercial|"Bait Bakfar"|OG ID
-|2nd Assistant Camera - Commercial|Azriely Group "Passover Promo"| Kaski Productions
+|2nd Assistant Camera - Commercial|Azriely Group "Passover Promo"</br> [1](https://www.youtube.com/watch?v=KV-gX-Zjue4), [2](https://www.youtube.com/watch?v=_jpwtbFctHo)| Kaski Productions
 |2nd Assistant Camera - Film (Extra shoots) | "Golda" |Green Productions
 |2nd Assistant Camera - Commercial|Tara|Wewe Productions
 |2nd Assistant Camera - TV Series (Extra Shoots)|"The Good City 2"|July August Productions
@@ -24,15 +25,17 @@ title: Latest Gigs
 ### 2021
 | Job| Prod. Name | Prod. Company |
 | ------ | ------ | ------ |
-|Lead Technician - Reality TV|"Survivor Israel VIP"|Utopia Camera / Abot Hameiri
+|Lead Technician - Reality TV|["Survivor Israel VIP"](https://13tv.co.il/mood/survivor/):palm_tree::tropical_fish:|Utopia Camera / Abot Hameiri
 |Technical Producer - Live / Web |Bahai Gardens Anniversary|Utopia Camera
-|Lead Technician - Reality TV| "New Love 2"|Utopia Camera / Abot Hameiri 
-|2nd Assistant Camera - Web |Bumble|DMWA
+|Lead Technician - Reality TV|["New Love 2"](https://13tv.co.il/vod/new-love/)|Utopia Camera / Abot Hameiri 
+|2nd Assistant Camera - Web |[Bumble Israel Promo](https://www.youtube.com/watch?v=W7mNQEq9nMA)|DMWA
 |Technician - Reality TV|"Imposters"||Kasinta Productions
-|Technician - Web| Applied Materials|Utopia Camera
-|2nd Assistant Camera - Music Video |Gali|Studio Kestenboum
-|2nd Assistant Camera - Commercial|Optalgin|Udini Films
-|Data Wrangler - Live Stand-up Show|Assaf Itzhaki|ROMS Studio
-|2nd Assistant Camera - TV Series |"The 90's Show"| Yoav Gross Productions
-|2nd Assistant Camera - Music Video|Ravid Plotnik "Cookoorikoo"|Studio Kestenboum
+|Technician - Web|Applied Materials|Utopia Camera
+|2nd Assistant Camera - Music Video |[Gali Givon - "Show Me Love"](https://www.youtube.com/watch?v=AZGJdENmsJI)|Studio Kestenboum
+|2nd Assistant Camera - Commercial|Optalgin [1](https://www.youtube.com/watch?v=LNXOVNBEIxg), [2](https://www.youtube.com/watch?v=FM4F3P_L4tE), [3](https://www.youtube.com/watch?v=6iHAmK91rl4), [4](https://www.youtube.com/watch?v=ppL626ALbgE)|Udini Films
+|Data Wrangler - Live Stand-up Show|Assaf Itzhaki Stand up|ROMS Studio
+|2nd Assistant Camera - TV Series |["The 90's Show"](https://13tv.co.il/featured-series/1990s/)| Yoav Gross Productions
+|2nd Assistant Camera - Music Video|[Ravid Plotnik "Kookoorikoo"](https://www.youtube.com/watch?v=bLdjQJUY0VM)|Studio Kestenboum
 |Studio Technician - Live / Web|Daily| Sun Video Studios
+
+
