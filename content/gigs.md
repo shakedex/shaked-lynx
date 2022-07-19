@@ -5,17 +5,22 @@ title: Latest Gigs
 ### 2022
 | Job| Prod. Name | Prod. Company |
 | ------ | ------ | ------ |
-|2nd Assistant Camera - Promo| Dan Acadia Hotel & Master Chef | Keshet
-|2nd Assistant Camera - TV Series | Dismissed / Hamefakedet 2| Black Sheep , HOT
-|2nd Assistant Camera - Commercial|Delek Motors - FORD |OG GROUP
-|2nd Assistant Camera - Commercial|["Delek Motors - BMW"](https://www.youtube.com/watch?v=vBkXXZY0HUE) |OG GROUP
+|Head Technician - Reality TV|Yoram Zak's new reality tv project **(post-production)** |Keshet12, Utopia, Ido Baron Productions
+|2nd Assistant Camera - Commercial|[Mania Jeans - Evening Collection 2022](https://www.youtube.com/watch?v=iT-NtHPEtxI) |iconz by medio
+|2nd Assistant Camera - Commercial|[Yes - Disney Plus Promo](https://www.youtube.com/watch?v=8zw5lRbNIoM) |Mulla Productions
+|2nd Assistant Camera - Commercial|Mazda Commercial|OG Group
+|Technician - Reality TV|"Dog House" **(post-production)** |Tedi Productions, Kan11
+|2nd Assistant Camera - Promo| Dan Acadia Hotel & Master Chef | Keshet12
+|2nd Assistant Camera - TV Series |[Dismissed / Hamefakedet 2](https://www.kan.org.il/page.aspx?landingpageid=1319)| Black Sheep , Kan11
+|2nd Assistant Camera - Commercial|Delek Motors - Ford Commercial |OG Group
+|2nd Assistant Camera - Commercial|[Delek Motors - BMW Commercial](https://www.youtube.com/watch?v=vBkXXZY0HUE) |OG Group
 |2nd Assistant Camera - Commercial|Lily - "Feels Lily in nature" </br> [1](https://www.youtube.com/watch?v=Qft175_X-Hc), [2](https://www.youtube.com/watch?v=br0vvf17ajU)|Wedo Productions
-|2nd Bolt Assistant - Commercial|Altshuler Shaham - "Take your dreams seriously" </br> [1](https://www.youtube.com/watch?v=JoLv5ZHDTTs), [2](https://www.youtube.com/watch?v=5aoL826BH5g), [3](https://www.youtube.com/watch?v=XnnQXpKOvIQ)|OG Productions
+|2nd Bolt Assistant - Commercial|Altshuler Shaham - "Take your dreams seriously" </br> [1](https://www.youtube.com/watch?v=JoLv5ZHDTTs), [2](https://www.youtube.com/watch?v=5aoL826BH5g), [3](https://www.youtube.com/watch?v=XnnQXpKOvIQ)|OG Group
 |2nd Assistant Camera - Commercial|Osem - Independence Day </br>[1](https://www.youtube.com/watch?v=YTDVb5zY8WM) , [2](https://www.youtube.com/watch?v=XxG-oHptwx8) , [3](https://www.youtube.com/watch?v=GUbreiLr4FY)|Kaski Productions
 |2nd Assistant Camera - Commercial|["Project 1000"](https://www.youtube.com/watch?v=wznVzg62Mqs)|Udini Films
 |2nd Assistant Camera - Promo / Web|[Zarachovich Standup Promo - Shuni Amphitheater](https://www.youtube.com/watch?v=MeJFdYUmZ5c) | Tedi Productions
-|2nd Assistant Camera - Music Video|Ravid Plotnik "Golem"|Studio Kestenboum
-|2nd Assistant Camera - Commercial|"Bait Bakfar"|OG ID
+|2nd Assistant Camera - Music Video|[Ravid Plotnik - "Golem"](https://www.youtube.com/watch?v=nAwJSF2TE_s)|Studio Kestenboum
+|2nd Assistant Camera - Commercial|"Bait Bakfar"|OG Group
 |2nd Assistant Camera - Commercial|Azriely Group "Passover Promo"</br> [1](https://www.youtube.com/watch?v=KV-gX-Zjue4), [2](https://www.youtube.com/watch?v=_jpwtbFctHo)| Kaski Productions
 |2nd Assistant Camera - Film (Extra shoots) | "Golda" |Green Productions
 |2nd Assistant Camera - Commercial|Tara|Wewe Productions
