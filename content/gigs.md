@@ -2,14 +2,32 @@
 title: Latest Gigs 
 ---
  Latest projects I worked at so far 
+### 2023
+| Job| Prod. Name | Prod. Company |
+| ------ | ------ | ------ |
+| 2nd Assitant Camera | Pizza Madanot | Borax |
+| 2nd Assitant Camera | Electric Rail Music VIdeo | ROMS Studio |
+
 ### 2022
 | Job| Prod. Name | Prod. Company |
 | ------ | ------ | ------ |
-|Head Technician - Reality TV|Yoram Zak's new reality tv project **(post-production)** |Keshet12, Utopia, Ido Baron Productions
+| 2nd Assitant Camera | Lapam - Treasury | Kadishzon |
+| 2nd Assitant Camera  | [Milky Winterbox 2022](https://www.youtube.com/watch?v=Po7XRpoReR0) | Shlager Media |
+| 2nd Assitant Camera | Atera | Borax Prod |
+| 2nd Assitant Camera | Golan Telecom | Yoram Commercial Prod. |
+| 2nd Assitant Camera | [Sqream](https://www.youtube.com/watch?v=YVR6TdiCuvk) | ------ |
+| 2nd Assitant Camera | [Ikea "Museum"](https://www.youtube.com/watch?v=gV925NqUY24) | Shachar Segal POV Prod. |
+| 2nd Assitant Camera | Kan 11 - 22 Elections Promo | Playground Shortcut |
+| 2nd Assitant Camera | [Kan 11 - World Cup Promo](https://www.youtube.com/watch?v=0U2iXhn17y4) | Promotheus Films / Kan 11 |
+| 2nd Assitant Camera - Israel B Roll Unit | TIKKOUN Feature film | Bustan Films |
+| 2nd Assitant Camera | [Shufersal New Eyers](https://www.youtube.com/watch?v=Rfi6sWVnU0o) | Mialama Productions |
+| 2nd Assitant Camera | [TWENTYFOURSEVEN - Something New](https://www.youtube.com/watch?v=Rfi6sWVnU0o) | Ori Amitai Prod. |
+| 2nd Assistant Camera - Commercial | [ONE ZERO BANK - Football](https://www.youtube.com/watch?v=sthvXqI_Mmo) | OG Group |
+|Head Technician - Reality TV|["The Group"](https://www.mako.co.il/tv-the_group?Partner=blockscomp)|Keshet 12
 |2nd Assistant Camera - Commercial|[Mania Jeans - Evening Collection 2022](https://www.youtube.com/watch?v=iT-NtHPEtxI) |iconz by medio
 |2nd Assistant Camera - Commercial|[Yes - Disney Plus Promo](https://www.youtube.com/watch?v=8zw5lRbNIoM) |Mulla Productions
 |2nd Assistant Camera - Commercial|Mazda Commercial|OG Group
-|Technician - Reality TV|"Dog House" **(post-production)** |Tedi Productions, Kan11
+|Technician - Reality TV|"Dog House" |Tedi Productions, Yes
 |2nd Assistant Camera - Promo| Dan Acadia Hotel & Master Chef | Keshet12
 |2nd Assistant Camera - TV Series |[Dismissed / Hamefakedet 2](https://www.kan.org.il/page.aspx?landingpageid=1319)| Black Sheep , Kan11
 |2nd Assistant Camera - Commercial|Delek Motors - Ford Commercial |OG Group
