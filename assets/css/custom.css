@@ -1,6 +1,5 @@
 .justify-center{
   justify-content: end;
-  padding-top: 100px;
 }
 .w-36 {
   max-width: 1155px;
@@ -10,32 +9,43 @@
   max-height: 992px;
   height: 40rem;
 }
-.link-portfolio {
-  background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
+.link-commercial {
+  background-image: linear-gradient(to bottom, #fa709a 0%, #fee140 100%);
+  text-shadow: 0px 1px 5px rgb(53, 53, 53);
+}
+.link-tv {
+  background-image: linear-gradient(to bottom, #7270fa 0%, #40fede 100%);
+  text-shadow: 0px 1px 5px rgb(53, 53, 53);
+}
+.link-mvs {
+  background-image: linear-gradient(to bottom, #97fa70 0%, #218126 100%);
+  text-shadow: 0px 1px 5px rgb(53, 53, 53);
+}
+.link-feature {
+  background-image: linear-gradient(to bottom, #fa70e8 0%, #962bb6 100%);
+  text-shadow: 0px 1px 5px rgb(53, 53, 53);
 }
 .link-personalw {
   background: #00DBDE;
   background: linear-gradient(90deg, #00DBDE 0%, #FC00FF 100%);
+  text-shadow: 0px 1px 5px rgb(53, 53, 53);
 }
 .link-clients {
-  background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+  background-image: linear-gradient(to bottom, #30cfd0 0%, #330867 100%);
+  text-shadow: 0px 1px 5px rgb(53, 53, 53);
 }
 .link-about {
   background: #485563;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #29323c, #485563);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #29323c, #485563); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  
-  padding-top: 0rem;
-  padding-bottom: 0rem;
-  padding-left: 10px;
-  padding-right: 10px;
+  background-image: linear-gradient(to top, #29323c, #485563); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  text-shadow: 0px 1px 5px rgb(53, 53, 53);
 }
 .mb-2 { 
   position:absolute;
   z-index:-1;
+  float: right;
   margin-left:auto;
   margin-right:auto;
-  right: 50;
+  display: block;
   top: 0;
   border-top-right-radius: 0.5rem; /* 8px */
   border-top-left-radius: 0.5rem; /* 8px */
@@ -48,10 +58,10 @@
 }
 h1{
   font-family: "Montserrat", sans-serif;
-  text-shadow: 0 14px 8px rgba(0,0,0,0.12), 0 2px 4px rgba(0,0,0,0.75);
+  text-shadow: 0px 2px 5px rgb(53, 53, 53);
 }
 h2 {
-  text-shadow: 0 14px 8px rgba(0,0,0,0.12), 0 2px 4px rgba(0,0,0,0.75);
+  text-shadow: 0px 2px 5px rgb(53, 53, 53);
 }
 .bg-gradient {
   background-image: linear-gradient(120deg, #89f7fe 0%, #66a6ff 100%);

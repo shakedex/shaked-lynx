@@ -14,9 +14,12 @@ disableKinds = ["taxonomy", "term"]
 
   links = [
      { about = {href = "/about",target="_self", text = "About Me" }},
-     { portfolio = {href = "/gigs",target="_self", text = "Latest Gigs" }},
+     { commercial = {href = "/commercial",target="_self", text = "Commercials" }},
+     { tv = {href = "/tv",target="_self", text = "Scripted/Web/Reality TV" }},
+     { mvs = {href = "/musicvideo",target="_self", text = "Music Videos" }},
+     { feature = {href = "/feature",target="_self", text = "Feature Films" }},
      { clients = {href = "/clients",target="_self", text = "Clients" }},
-     { personalw = {href = "/works",target="_self", text = "Personal Works" }},
+    # { personalw = {href = "/works",target="_self", text = "Personal Works" }},
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
     # { codepen = "https://codepen.io/username" },
