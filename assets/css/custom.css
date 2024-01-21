@@ -2,11 +2,13 @@
   justify-content: end;
 }
 .w-36 {
-  max-width: 1155px;
+  /* max-width: 1155px; */
   width: auto;
+  object-fit: cover;
 }
 .h-36 {
-  max-height: 992px;
+  /* max-height: 992px; */
+  object-fit: cover;
   height: 40rem;
 }
 .link-commercial {
@@ -42,9 +44,6 @@
 .mb-2 { 
   position:absolute;
   z-index:-1;
-  float: right;
-  margin-left:auto;
-  margin-right:auto;
   display: block;
   top: 0;
   border-top-right-radius: 0.5rem; /* 8px */
